@@ -6,6 +6,10 @@ Link :- https://smartcity0635.web.app/
 
 Hello all
 
+I am Vikas Dhiman(Student).
+
+I am a Full-Stack Developer.
+
 This project anyone can assess, Any person can improve your Social skills, Improve you history skills.
 
 This project is drawback is 
