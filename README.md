@@ -26,3 +26,7 @@ Date 27/09/2020 I have updateed on it <br>
 Date 28/09/2020 
             Hello all
             Today one thought comming in my mind.
+                My thought is, I can get a diery and wright all problem in my diery.
+            So, Today i got a diery and tomorrow I will start to wright all problem. 
+            After some time i will change it.
+            I am trying my best.
