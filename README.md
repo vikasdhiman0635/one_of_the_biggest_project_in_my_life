@@ -26,7 +26,11 @@ Date 27/09/2020 I have updateed on it <br>
 Date 28/09/2020 
             Hello all<br>
             Today one thought comming in my mind.<br>
-                My thought is, I can get a diery and wright all problem in my diery.<br>
-            So, Today i got a diery and tomorrow I will start to wright all problem. <br>
+                My thought is, I can get a diery and write all problem in my diery.<br>
+            So, Today i got a diery and tomorrow I will start to write all problem. <br>
             After some time i will change it.<br>
             I am trying my best.<br>
+            
+            
+            Really really i write in this github repo Readme file 
+            Today is a very boring day. :disappointed:
