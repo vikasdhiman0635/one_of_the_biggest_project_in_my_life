@@ -33,4 +33,4 @@ Date 28/09/2020
             
             
             Really really i write in this github repo Readme file 
-            Today is a very boring day. :disappointed:
+            Today is a very boring day. 😞
