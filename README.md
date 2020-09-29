@@ -34,3 +34,15 @@ Date 28/09/2020
             
             Really really i write in this github repo Readme file 
             Today is a very boring day. 😞
+    
+
+Date 29/09/2020
+           
+           Hello all 
+           Today that's a good day.
+           I think I am working on this project I have a new idea regarding history 💡.
+           But today I didn't get time.
+           And my idea is very large. so, I am will apply this idea to the project. After you can see they have been the biggest change in this project.
+           This update will come very fastly.
+           Thnak you.
+    
