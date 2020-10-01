@@ -49,6 +49,6 @@ Date 29/09/2020
            
 Date 1/10/2020 
     
-           Hello all<br>
+           Hello all
            I didn't update yesterday 
            I am thinking very well but next some days i will not work in this project
