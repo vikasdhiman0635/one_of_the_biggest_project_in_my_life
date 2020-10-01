@@ -54,4 +54,5 @@ Date 1/10/2020
     
            Hello all
            I didn't update yesterday 
-           I am thinking very well but next some days i will not work in this project
+           I am thinking very well but next some days i will not work in this project. Because there have some problem.
+           Sorry
