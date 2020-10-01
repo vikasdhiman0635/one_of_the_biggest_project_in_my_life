@@ -17,19 +17,22 @@ This project anyone can assess, Any person can improve your Social skills, Impro
 This project is drawback is 
     Smart city website database is not live.
 
-Date 27/09/2020 I have updateed on it <br>
-              I have added a new chat function in this site. <br>
-              In this chat function you can ask any query regarding this site. <br>
-              This chat helps us to understand the website.<br>
+Date 27/09/2020 
+
+              I have updateed on it
+              I have added a new chat function in this site.
+              In this chat function you can ask any query regarding this site.
+              This chat helps us to understand the website.
               I am completely update the chat service on my site. I am very happy alot. :smiley:
 
 Date 28/09/2020 
-            Hello all<br>
-            Today one thought comming in my mind.<br>
-                My thought is, I can get a diery and write all problem in my diery.<br>
-            So, Today i got a diery and tomorrow I will start to write all problem. <br>
-            After some time i will change it.<br>
-            I am trying my best.<br>
+
+            Hello all
+            Today one thought comming in my mind.
+                My thought is, I can get a diery and write all problem in my diery.
+            So, Today i got a diery and tomorrow I will start to write all problem.
+            After some time i will change it.
+            I am trying my best.
             
             
             Really really i write in this github repo Readme file 
