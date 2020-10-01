@@ -45,4 +45,9 @@ Date 29/09/2020
            And my idea is very large. so, I am will apply this idea to the project. After you can see they have been the biggest change in this project.
            This update will come very fastly.
            Thnak you.
-    
+           
+           
+Date 1/10/2020 
+           Hello all<br>
+           I didn't update yesterday 
+           I am thinking very well but next some days i will not work in this project
